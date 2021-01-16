@@ -11,3 +11,6 @@ I just got some contract work with an Ecommerce company based in New York City t
 In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website.
 <br />
 We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+
+### 3. K Nearest Neighbors
+In this project I'll work with the famous iris dataset from scikit-learn and use knn model to predict wether a given flower is Setosa, Versicolour or Virginica.
